@@ -15,7 +15,7 @@
          <hr>
          <center>
             <h1>register form</h1>
-            <form action="loginservlte" method="post">
+            <form action="loginservlet" method="post">
                 <table>
             <tr>
                 <td>Name</td><td><input type="text" name="txtname"  placeholder="enter your name"></td>
